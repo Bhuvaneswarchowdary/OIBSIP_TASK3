@@ -1,0 +1,16 @@
+.tem{
+    border: 5px solid black;
+    margin: 10px auto;
+    padding: 70px;
+    border-radius: 50px;
+    background-color: lightgray;
+    width: 260px;
+    
+}
+.bt{
+    background-color: wheat;
+    padding: 4px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
